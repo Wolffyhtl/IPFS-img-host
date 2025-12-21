@@ -3,7 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/H2O-ME/IPFS-img-host.svg)](https://github.com/H2O-ME/IPFS-img-host/stargazers)
 
-简洁、开源、免费的IPFS图床服务，基于xlog API逆向，由EdgeOne提供全球CDN加速。
+简洁、开源、免费的IPFS图床网站，由EdgeOne提供全球CDN加速。
+## 展示
+![网站截图](https://image.tianhw.top/ipfs/3.webp)
+![网站截图](https://image.tianhw.top/ipfs/4.webp)
+![网站截图](https://image.tianhw.top/ipfs/5.webp)
+## 使用
+访问[ipfs.tianhw.top](https://ipfs.tianhw.top/)即可使用，部署在了EdgeOne Pages 。
 
 ## 文件大小限制
 
