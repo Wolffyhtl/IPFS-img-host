@@ -13,9 +13,9 @@
 
 [![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/H2O-ME/IPFS-img-host)
 
-[![Deploy with Vercel](https://vercel.com/deploy-button.svg)](https://vercel.com/new/gh/project?template=https://github.com/H2O-ME/IPFS-img-host)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/H2O-ME/IPFS-img-host)
 
-[![Deploy to Netlify](https://www.netlify.com/deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/H2O-ME/IPFS-img-host)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/H2O-ME/IPFS-img-host)
 
 ## 文件大小限制
 
