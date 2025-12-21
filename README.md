@@ -9,7 +9,13 @@
 ![网站截图](https://image.tianhw.top/ipfs/4.webp)
 ![网站截图](https://image.tianhw.top/ipfs/5.webp)
 ## 使用
-访问[ipfs.tianhw.top](https://ipfs.tianhw.top/)即可使用，部署在了EdgeOne Pages 。
+访问[ipfs.tianhw.top](https://ipfs.tianhw.top/)即可使用，你也可以点击下方一键部署按钮部署至Netlify，Vercel等平台。
+
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/H2O-ME/IPFS-img-host)
+
+[![Deploy with Vercel](https://vercel.com/deploy-button.svg)](https://vercel.com/new/gh/project?template=https://github.com/H2O-ME/IPFS-img-host)
+
+[![Deploy to Netlify](https://www.netlify.com/deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/H2O-ME/IPFS-img-host)
 
 ## 文件大小限制
 
